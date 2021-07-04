@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Diagram>
+  <ID>JAVA</ID>
+  <OriginalElement />
+  <nodes>
+    <node x="563.75" y="127.0">tor_suit</node>
+    <node x="367.74999999999994" y="138.5">WeaponsDecorator</node>
+    <node x="716.75" y="127.0">ora_suit</node>
+    <node x="0.0" y="422.0">ItemClass</node>
+    <node x="869.75" y="127.0">dec_suit</node>
+    <node x="0.0" y="254.0">AutoRifle</node>
+    <node x="470.99999999999994" y="254.0">Laser</node>
+    <node x="224.99999999999994" y="254.0">FlameThrower</node>
+    <node x="696.0" y="254.0">RocketLauncher</node>
+    <node x="236.0" y="422.0">Main</node>
+    <node x="626.75" y="0.0">ComponentClass</node>
+  </nodes>
+  <notes />
+  <edges>
+    <edge source="Laser" target="WeaponsDecorator">
+      <point x="0.0" y="-61.5" />
+      <point x="573.5" y="234.0" />
+      <point x="477.74999999999994" y="234.0" />
+      <point x="22.0" y="27.0" />
+    </edge>
+    <edge source="AutoRifle" target="WeaponsDecorator">
+      <point x="0.0" y="-61.5" />
+      <point x="102.5" y="224.0" />
+      <point x="389.74999999999994" y="224.0" />
+      <point x="-66.0" y="27.0" />
+    </edge>
+    <edge source="dec_suit" target="ComponentClass">
+      <point x="0.0" y="-38.5" />
+      <point x="936.25" y="97.0" />
+      <point x="766.75" y="97.0" />
+      <point x="60.0" y="38.5" />
+    </edge>
+    <edge source="RocketLauncher" target="WeaponsDecorator">
+      <point x="0.0" y="-61.5" />
+      <point x="814.0" y="224.0" />
+      <point x="521.75" y="224.0" />
+      <point x="66.0" y="27.0" />
+    </edge>
+    <edge source="FlameThrower" target="WeaponsDecorator">
+      <point x="0.0" y="-61.5" />
+      <point x="337.99999999999994" y="234.0" />
+      <point x="433.74999999999994" y="234.0" />
+      <point x="-22.0" y="27.0" />
+    </edge>
+    <edge source="WeaponsDecorator" target="ComponentClass">
+      <point x="0.0" y="-27.0" />
+      <point x="455.74999999999994" y="97.0" />
+      <point x="646.75" y="97.0" />
+      <point x="-60.0" y="38.5" />
+    </edge>
+    <edge source="ora_suit" target="ComponentClass">
+      <point x="0.0" y="-38.5" />
+      <point x="783.25" y="107.0" />
+      <point x="726.75" y="107.0" />
+      <point x="20.0" y="38.5" />
+    </edge>
+    <edge source="tor_suit" target="ComponentClass">
+      <point x="0.0" y="-38.5" />
+      <point x="630.25" y="107.0" />
+      <point x="686.75" y="107.0" />
+      <point x="-20.0" y="38.5" />
+    </edge>
+  </edges>
+  <settings layout="Hierarchic Group" zoom="0.7000000000000001" x="1058.0" y="449.0" />
+  <SelectedNodes>
+    <node>ComponentClass</node>
+  </SelectedNodes>
+  <Categories>
+    <Category>Fields</Category>
+    <Category>Constructors</Category>
+    <Category>Methods</Category>
+    <Category>Properties</Category>
+    <Category>Inner Classes</Category>
+  </Categories>
+  <SCOPE>All</SCOPE>
+  <VISIBILITY>private</VISIBILITY>
+</Diagram>
+
