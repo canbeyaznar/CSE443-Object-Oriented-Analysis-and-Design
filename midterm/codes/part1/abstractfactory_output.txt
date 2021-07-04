@@ -1,0 +1,350 @@
+-o-o-o-o-o-o-o-o-o-o-o-o-o-o-o-o-o-o-o-o-o-o-o-o-
+-o-o-o-o-o-Phone model test for Turkey-o-o-o-o-o-
+-o-o-o-o-o-o-o-o-o-o-o-o-o-o-o-o-o-o-o-o-o-o-o-o-
+Preparing MaximumEffort
+Making a MaximumEffort
+
+-o-o-o-o-o-o-o-o-o-o-o-o-o-
+Model Name : MaximumEffort
+
+Display: 
+5.5 inches,
+32 Bit
+
+Battery: 
+27h,
+3600mAh
+Lithium Boron
+
+CPU and Ram: 
+2.8GHz,
+8GB,
+8 cores
+
+Storage: 
+MicroSD support,
+64GB,
+Max 128 GB
+
+Camera: 
+12Mp front,
+8Mp rear,Opt. zoom x4
+
+Case: 
+151x73x7.7 mm,
+dustproof,
+waterproof,
+aluminum,
+Waterproof up to 2m
+
+-o-o-o-o-o-o-o-o-o-o-o-o-o-
+
+Preparing IflasDeluxe
+Making a IflasDeluxe
+
+-o-o-o-o-o-o-o-o-o-o-o-o-o-
+Model Name : IflasDeluxe
+
+Display: 
+5.3 inches,
+32 Bit
+
+Battery: 
+20h,
+2800mAh
+Lithium Boron
+
+CPU and Ram: 
+2.2GHz,
+6GB,
+8 cores
+
+Storage: 
+MicroSD support,
+32GB,
+Max 128 GB
+
+Camera: 
+12Mp front,
+5Mp rear,Opt. zoom x4
+
+Case: 
+149x73x7.7 mm
+waterproof,
+aluminum,
+Waterproof up to 2m
+
+-o-o-o-o-o-o-o-o-o-o-o-o-o-
+
+Preparing I-I-Aman-Iflas
+Making a I-I-Aman-Iflas
+
+-o-o-o-o-o-o-o-o-o-o-o-o-o-
+Model Name : I-I-Aman-Iflas
+
+Display: 
+4.5 inches,
+32 Bit
+
+Battery: 
+16h,
+2000mAh,
+Lithium Boron
+
+CPU and Ram: 
+2.2GHz,
+4GB,
+8 cores
+
+Storage: 
+MicroSD
+support, 16GB,
+Max 128 GB
+
+Camera: 
+8Mp front,
+5Mp rear,
+Opt. zoom x4
+
+Case: 
+143x69x7.3 mm
+waterproof,
+plastic,
+Waterproof up to 2m
+
+-o-o-o-o-o-o-o-o-o-o-o-o-o-
+
+-o-o-o-o-o-o-o-o-o-o-o-o-o-o-o-o-o-o-o-o-o-o-o-o-o-
+-o-o-o-o-o-o-o-o-o-o-o-o-o-o-o-o-o-o-o-o-o-o-
+-o-o-o-o-o-Phone model test for EU-o-o-o-o-o-
+-o-o-o-o-o-o-o-o-o-o-o-o-o-o-o-o-o-o-o-o-o-o-
+Preparing MaximumEffort
+Making a MaximumEffort
+
+-o-o-o-o-o-o-o-o-o-o-o-o-o-
+Model Name : MaximumEffort
+
+Display: 
+5.5 inches,
+24 Bit
+
+Battery: 
+27h,
+3600mAh
+Lithium Ion
+
+CPU and Ram: 
+2.8GHz,
+8GB,
+4 cores
+
+Storage: 
+MicroSD support,
+64GB,
+Max 64 GB
+
+Camera: 
+12Mp front,
+8Mp rear,Opt. zoom x3
+
+Case: 
+151x73x7.7 mm,
+dustproof,
+waterproof,
+aluminum,
+Waterproof up to 1m
+
+-o-o-o-o-o-o-o-o-o-o-o-o-o-
+
+Preparing IflasDeluxe
+Making a IflasDeluxe
+
+-o-o-o-o-o-o-o-o-o-o-o-o-o-
+Model Name : IflasDeluxe
+
+Display: 
+5.3 inches,
+24 Bit
+
+Battery: 
+20h,
+2800mAh
+Lithium Ion
+
+CPU and Ram: 
+2.2GHz,
+6GB,
+4 cores
+
+Storage: 
+MicroSD support,
+32GB,
+Max 64 GB
+
+Camera: 
+12Mp front,
+5Mp rear,Opt. zoom x3
+
+Case: 
+149x73x7.7 mm
+waterproof,
+aluminum,
+Waterproof up to 1m
+
+-o-o-o-o-o-o-o-o-o-o-o-o-o-
+
+Preparing I-I-Aman-Iflas
+Making a I-I-Aman-Iflas
+
+-o-o-o-o-o-o-o-o-o-o-o-o-o-
+Model Name : I-I-Aman-Iflas
+
+Display: 
+4.5 inches,
+24 Bit
+
+Battery: 
+16h,
+2000mAh,
+Lithium Ion
+
+CPU and Ram: 
+2.2GHz,
+4GB,
+4 cores
+
+Storage: 
+MicroSD
+support, 16GB,
+Max 64 GB
+
+Camera: 
+8Mp front,
+5Mp rear,
+Opt. zoom x3
+
+Case: 
+143x69x7.3 mm
+waterproof,
+plastic,
+Waterproof up to 1m
+
+-o-o-o-o-o-o-o-o-o-o-o-o-o-
+
+-o-o-o-o-o-o-o-o-o-o-o-o-o-o-o-o-o-o-o-o-o-o-o-o-o-
+-o-o-o-o-o-o-o-o-o-o-o-o-o-o-o-o-o-o-o-o-o-o-
+-o-o-o-o-o-Phone model test for Global-o-o-o-o-o-
+-o-o-o-o-o-o-o-o-o-o-o-o-o-o-o-o-o-o-o-o-o-o-
+Preparing MaximumEffort
+Making a MaximumEffort
+
+-o-o-o-o-o-o-o-o-o-o-o-o-o-
+Model Name : MaximumEffort
+
+Display: 
+5.5 inches,
+24 Bit
+
+Battery: 
+27h,
+3600mAh
+Lithium Cobalt
+
+CPU and Ram: 
+2.8GHz,
+8GB,
+2 cores
+
+Storage: 
+MicroSD support,
+64GB,
+Max 32 GB
+
+Camera: 
+12Mp front,
+8Mp rear,Opt. zoom x2
+
+Case: 
+151x73x7.7 mm,
+dustproof,
+waterproof,
+aluminum,
+Waterproof up to 50cm
+
+-o-o-o-o-o-o-o-o-o-o-o-o-o-
+
+Preparing IflasDeluxe
+Making a IflasDeluxe
+
+-o-o-o-o-o-o-o-o-o-o-o-o-o-
+Model Name : IflasDeluxe
+
+Display: 
+5.3 inches,
+24 Bit
+
+Battery: 
+20h,
+2800mAh
+Lithium Cobalt
+
+CPU and Ram: 
+2.2GHz,
+6GB,
+2 cores
+
+Storage: 
+MicroSD support,
+32GB,
+Max 32 GB
+
+Camera: 
+12Mp front,
+5Mp rear,Opt. zoom x2
+
+Case: 
+149x73x7.7 mm
+waterproof,
+aluminum,
+Waterproof up to 50cm
+
+-o-o-o-o-o-o-o-o-o-o-o-o-o-
+
+Preparing I-I-Aman-Iflas
+Making a I-I-Aman-Iflas
+
+-o-o-o-o-o-o-o-o-o-o-o-o-o-
+Model Name : I-I-Aman-Iflas
+
+Display: 
+4.5 inches,
+24 Bit
+
+Battery: 
+16h,
+2000mAh,
+Lithium Cobalt
+
+CPU and Ram: 
+2.2GHz,
+4GB,
+2 cores
+
+Storage: 
+MicroSD
+support, 16GB,
+Max 32 GB
+
+Camera: 
+8Mp front,
+5Mp rear,
+Opt. zoom x2
+
+Case: 
+143x69x7.3 mm
+waterproof,
+plastic,
+Waterproof up to 50cm
+-o-o-o-o-o-o-o-o-o-o-o-o-o-
+-o-o-o-o-o-o-o-o-o-o-o-o-o-o-o-o-o-o-o-o-o-o-o-o-o-
+
